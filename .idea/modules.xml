@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASCILL/ASCILL.iml" filepath="$PROJECT_DIR$/ASCILL/ASCILL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assembly/Assembly.iml" filepath="$PROJECT_DIR$/Assembly/Assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/Data Structure.iml" filepath="$PROJECT_DIR$/Data Structure/Data Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA21/JAVA21.iml" filepath="$PROJECT_DIR$/JAVA21/JAVA21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA26/JAVA26.iml" filepath="$PROJECT_DIR$/JAVA26/JAVA26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA27/JAVA27.iml" filepath="$PROJECT_DIR$/JAVA27/JAVA27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA28/JAVA28.iml" filepath="$PROJECT_DIR$/JAVA28/JAVA28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA29/JAVA29.iml" filepath="$PROJECT_DIR$/JAVA29/JAVA29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA30/JAVA30.iml" filepath="$PROJECT_DIR$/JAVA30/JAVA30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java15/Java15.iml" filepath="$PROJECT_DIR$/Java15/Java15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java18API/Java18API.iml" filepath="$PROJECT_DIR$/Java18API/Java18API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OJ/OJ.iml" filepath="$PROJECT_DIR$/OJ/OJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRACTISE/PRACTISE.iml" filepath="$PROJECT_DIR$/PRACTISE/PRACTISE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TIMECLASS/TIMECLASS.iml" filepath="$PROJECT_DIR$/TIMECLASS/TIMECLASS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
